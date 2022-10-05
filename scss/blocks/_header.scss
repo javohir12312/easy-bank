@@ -1,0 +1,32 @@
+.header{
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.4 );
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+}
+
+.header__about{
+  position: fixed;
+  background-color: #7F2941;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+}
+
+
+.header__inner{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__logo_link{
+  display: inline-block;
+}
+
+.header__logo{
+  display: block;
+}

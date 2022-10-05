@@ -1,0 +1,99 @@
+.get__content {
+  display: flex;
+}
+
+.get__item {
+  display: flex;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px gray;
+}
+
+.get__item>img {
+  margin-right: 15px;
+}
+
+.get__item>div>h4 {
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
+
+
+.get__item>div {
+  color: #7F2941;
+}
+
+.get__item>div>a {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  color: #7F2941;
+}
+
+.get__masage {
+  border-radius: 30px;
+  padding: 50px;
+  border: none;
+  box-shadow: 0px 0px 20px 5px gray;
+}
+
+.get__masage>form>div>input {
+  border: none;
+  border-radius: 20px;
+  padding: 15px;
+  background-color: rgb(226, 225, 225);
+}
+
+.get__masage>form>input {
+  border: none;
+  border-radius: 20px;
+  padding: 25px;
+  background-color: rgb(226, 225, 225);
+}
+
+.get__checkbox_primary {
+  color: #7F2941;
+}
+
+.get__checkbox_blue {
+  color: #229ED9;
+}
+
+.get__masage>span {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+}
+
+.get__button {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  text-transform: uppercase;
+  border: none;
+  padding: 20px;
+  color: #AEC5CE;
+  background: #7F2941;
+  border-radius: 100px;
+}
+.get__map{
+  width: 120%;
+  margin-top: 30px;
+  margin-left: -130px;
+}

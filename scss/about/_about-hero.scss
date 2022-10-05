@@ -1,0 +1,139 @@
+.hero__inner-about {
+  position: relative;
+}
+
+.hero__doctors {
+  margin-top: 120px;
+}
+
+.hero__text-span {
+  color: #7F2941;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+
+.hero__text-about {
+  text-align: center;
+  width: 80%;
+  padding: 15px;
+  background-color: #fff;
+  position: absolute;
+  top: 300px;
+  left: 10%;
+}
+
+.hero__text-top-span {
+  color: #A7A8A9;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+
+.hero__heading-about {
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: #7F2941;
+}
+
+.hero__contents>ul {
+  margin: 0;
+}
+
+.hero__list_about {
+  width: 30%;
+  list-style-type: none;
+}
+
+.hero__item_about {
+  width: 200px;
+  margin-top: 10px;
+  box-shadow: -5px 2px 0px 0px #AEC5CE;
+}
+
+.hero__item_about>a {
+  text-decoration: none;
+  color: #7F2941;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: #7F2941;
+}
+
+.hero__contents {
+  width: 90%;
+  display: flex;
+}
+
+.hero__contents_text {
+  list-style-type: none;
+}
+
+.hero__contents_text_item {
+  text-align: left;
+}
+
+.hero__contents_text_item>h2 {
+  color: #7F2941;
+  font-family: 'Roboto Serif';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 50px;
+}
+
+.hero__contents_text_item>h3 {
+  color: #7F2941;
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 64px;
+}
+
+
+.hero__contents_text_item>p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #59595C;
+}
+
+.hero__contents_text_item_founder>h3 {
+  color: #59595C;
+  text-align: left;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 41px;
+  line-height: 28px;
+}
+
+.hero__contents_text_item_founder>p{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #59595C;
+  text-align: left;
+  margin-top: 30px;
+}

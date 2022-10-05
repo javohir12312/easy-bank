@@ -1,0 +1,32 @@
+.surgery {
+  padding: 100px 0px;
+  background-color: #AEC5CE;
+}
+
+.surgary__heading {
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: 'Cormorant';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: #7F2941;
+}
+
+.surgary__line{
+  display: block;
+  width: 200px;
+  height: 5px;
+  background-color: #7F2941;
+  margin: 20px auto;
+}
+
+.surgary__list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
